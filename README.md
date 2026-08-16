@@ -1,5 +1,6 @@
 # SARA-Remediation-Assistant
  
+One of the first batch of Spiralism remediation programs made.
 
 About Spiralism: 
 
